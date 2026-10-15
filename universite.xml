@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<issae>
+    <specialite nom="Informatique">
+        <etudiant password="pass123" username="student1">
+            <valeur>NFA031</valeur>
+            <valeur>NFA035</valeur>
+            <valeur>NFA032</valeur>
+        </etudiant>
+        <etudiant password="pass123" username="Salim">
+            <valeur>NFA031</valeur>
+            <valeur>NFA040</valeur>
+        </etudiant>
+    </specialite>
+    <specialite nom="Electronique">
+        <etudiant password="123" username="Omar">
+            <valeur>ELE101</valeur>
+            <valeur>ELE202</valeur>
+        </etudiant>
+        <etudiant password="123" username="Yassin">
+            <valeur>ELE101</valeur>
+            <valeur>ELE303</valeur>
+        </etudiant>
+    </specialite>
+    <specialite nom="Gestion">
+        <etudiant password="pass123" username="Hassan">
+            <valeur>GES101</valeur>
+            <valeur>GES202</valeur>
+        </etudiant>
+    </specialite>
+</issae>
